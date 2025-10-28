@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>III IT B Timetable</title>
+</head>
+<body>
+    <h2>Class: III IT B</h2>
+        <table border="1" cellspacing="1" cellpadding="10">
+        <caption><strong>Weekly Timetable</strong></caption>
+        <tr>
+            <th>DAYS</th>
+            <th>9:30-10:20</th>
+            <th>10:20-11:10</th>
+            <th>11:10-12:00</th>
+            <th>12:00-12:50</th>
+            <th>12:50-1:50</th>
+            <th>1:50-2:40</th>
+            <th>2:40-3:30</th>
+            <th>3:30-4:20</th>
+        </tr>
+        <tr>
+            <td>MON</td>
+            <td>CN (KNR)</td>
+            <td colspan="3">FLUTTER (9) TMJ/GM</td>
+            <td rowspan="6"; text-align: center;">LUNCH</td>
+            <td>DWDM (CHVR)</td>
+            <td>CN (KNR)</td>
+            <td>ATCD (NS)</td>
+        </tr>
+        <tr>
+            <td>TUE</td>
+            <td>DWDM (CHVR)</td>
+            <td>EDP (VSNR)</td>
+            <td>AJ (JS)</td>
+            <td>DWDM (CHVR)</td>
+            <td>ATCD (NS)</td>
+            <td>EDP (VSNR)</td>
+            <td>AJ (JS)</td>
+        </tr>
+        <tr>
+            <td>WED</td>
+            <td>ATCD (NS)</td>
+            <td colspan="3">ADVJ CP LAB(1) CHVR</td>
+            <td>EDP (VSNR)</td>
+            <td>COUN (JS)</td>
+            <td>CN (KNR)</td>
+        </tr>
+        <tr>
+            <td>THU</td>
+            <td>AJ (JS)</td>
+            <td colspan="3">FSD CP LAB(1) TS</td>
+            <td>DWDM (CHVR)</td>
+            <td>EDP (VSNR)</td>
+            <td>EDP (VSNR)</td>
+        </tr>
+        <tr>
+            <td>FRI</td>
+            <td>EDP (VSNR)</td>
+            <td>ATCD (NS)</td>
+            <td>AJ (JS)</td>
+            <td>DWDM (CHVR)</td>
+            <td>ATCD (NS)</td>
+            <td>EDP (VSNR)</td>
+            <td>CN (KNR)</td>
+        </tr>
+        <tr>
+            <td>SAT</td>
+            <td>DWDM (CHVR)</td>
+            <td>CN (KNR)</td>
+            <td>AJ (JS)</td>
+            <td>ATCD (NS)</td>
+            <td colspan="3">CN CP LAB(9) KNR/KL</td>
+        </tr>
+    </table>
+</body>
+</html>

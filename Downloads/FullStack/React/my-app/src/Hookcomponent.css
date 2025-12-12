@@ -1,0 +1,42 @@
+body{
+    height:100%;
+    width:100%;
+    display:grid;
+    flex-wrap:wrap;
+}
+.Increment{
+    border-radius: 15px;
+    background-color:blue;
+    color:white;
+    padding:10px;
+    margin:10px;
+    font-size:20px;
+    cursor:pointer;
+    border:none;
+    box-shadow:2px 2px 5px grey;
+}
+.Increment:hover{
+    background-color:darkblue;
+}   
+.Decrement{
+    border-radius: 15px;
+    background-color:red;
+    color:white;
+    padding:10px;
+    margin:10px;
+    font-size:20px;
+    cursor:pointer;
+    border:none;
+    box-shadow:2px 2px 5px grey;
+}
+.Decrement:hover{
+    background-color:darkred;
+}   
+.Count{
+    font-size:30px;
+    font-weight:bold;
+    margin:10px;
+}
+.COunt:Hover{
+    background-color:lightgrey;
+}
